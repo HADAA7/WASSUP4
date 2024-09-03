@@ -1,3 +1,1 @@
-# WASSUP4
-
-test1234567
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=정유진&fontColor=ffffff&fontSize=40)
